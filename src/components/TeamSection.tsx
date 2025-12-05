@@ -29,6 +29,12 @@ const teamMembers = [
   },
   {
     id: 5,
+    name: 'Achyut Chapagain',
+    role: 'Senior Full Stack Developer',
+    image: 'https://i.ibb.co/4RkCYxCD/fa257aba-9b9a-432d-94fe-74f3b4b882b8.jpg',
+  },
+  {
+    id: 5,
     name: 'Krishna Dahal',
     role: 'Lead Game Developer',
     image: 'https://i.ibb.co/FLyPKChy/image.png',
@@ -42,13 +48,13 @@ const teamMembers = [
   {
     id: 7,
     name: 'Aditya Upreti',
-    role: 'CEO (Chepex Every Occasion)',
+    role: 'Game Designer',
     image: 'https://i.ibb.co/KjfP8Qjv/image.png',
   },
   {
     id: 8,
     name: 'Santosh Bhandari',
-    role: 'Naam Matra Rakhdyaa',
+    role: 'Devops - Backend Developer',
     image: 'https://i.ibb.co/XXHzGQG/kaka.jpg',
   },
 ];
