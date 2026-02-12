@@ -57,6 +57,13 @@ const teamMembers = [
     role: 'Devops - Backend Developer',
     image: 'https://i.ibb.co/XXHzGQG/kaka.jpg',
   },
+   {
+    id: 9,
+    name: 'Saugat Baral',
+    role: 'Full Stack Developer',
+    image: 'https://i.ibb.co/LdNZ4k1P/image.png',
+  },
+  
 ];
 
 export default function TeamSection() {
